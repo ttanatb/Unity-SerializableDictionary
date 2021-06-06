@@ -1,0 +1,7 @@
+{
+  "name": "dev.imjusthostingthis.serializabledictionary",
+  "version": "0.0.1",
+  "displayName": "SerializableDictionary",
+  "type": "tool",
+  "hideInEditor": false
+}
